@@ -1,0 +1,15 @@
+Explain the difference in behavior between Integer and Float wrapper classes when comparing objects using ==.
+
+
+  In Java, wrapper classes like Integer sometimes behave differently because of a feature called caching.
+When you assign values between -128 and 127 to Integer objects, Java does not create new objects every time;
+instead, it reuses already created objects from a cache. 
+Because of this, two Integer variables with the same value in this range will refer to the same memory location, and using == will return true. 
+However, if the value is outside this range, such as 128, Java creates separate objects, so == returns false since the references are different.
+
+   On the other hand, Float (and also Double) does not use caching at all. 
+Every time you assign a value to a Float object, a new object is created in memory, even if the values are the same.
+This is because floating-point numbers can have infinitely many decimal values, making caching impractical.
+As a result, comparing two Float objects using == will usually return false because they point to different objects.
+Therefore, to correctly compare values of wrapper objects, 
+it is always recommended to use the .equals() method instead of ==, since .equals() compares the actual values rather than memory references.

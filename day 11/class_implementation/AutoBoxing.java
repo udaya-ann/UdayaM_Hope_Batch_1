@@ -14,9 +14,13 @@ public class AutoBoxing {
         // Character b='z';
         // System.out.println(c==b);
 
-        Float c=127F;
-        Float b=127F;
-        System.out.println(c==b);
+        // Float c=127F;
+        // Float d=127F;
+        // System.out.println(c==d);
+
+        Float a = 10.5f;
+        Float b = 10.5f;
+        System.out.println(a == b); // false
     }
 }
 
