@@ -12,7 +12,6 @@ public class MainApp {
 
         System.out.println("Enter number of modules:");
         int m = sc.nextInt();
-
         for (int i = 0; i < m; i++) {
             System.out.println("\nEnter Module Title:");
             String title = sc.next();
@@ -53,3 +52,5 @@ public class MainApp {
         service.showLearners();
     }
 }
+
+

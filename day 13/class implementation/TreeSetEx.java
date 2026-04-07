@@ -8,6 +8,7 @@ public class TreeSetEx {
         set.add(8);
         set.add(7);
         set.add(8);
-        System.out.println(set);
+        //System.out.println(set);
+        
     }
 }
