@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0443-string-compression) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -60,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
