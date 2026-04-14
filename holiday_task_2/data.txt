@@ -1,0 +1,6 @@
+Java is a programming language
+Python is used for AI
+Java supports OOP concepts
+Search engines use indexing
+OOP makes code reusable
+AI uses machine learning
