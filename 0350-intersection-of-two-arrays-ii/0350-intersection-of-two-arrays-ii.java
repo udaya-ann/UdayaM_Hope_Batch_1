@@ -9,7 +9,7 @@ class Solution {
         List<Integer> list = new ArrayList<>();
 
         for(int num : nums2){
-            if(map.containsKey(num) && map.get(num) > 0){
+            if(map.getOrDefault(num,0) > 0){
                 list.add(num);
                 map.put(num, map.get(num) - 1);
             }
