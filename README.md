@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0053-maximum-subarray) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
