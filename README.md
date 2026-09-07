@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
