@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0374-guess-number-higher-or-lower) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
@@ -204,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
