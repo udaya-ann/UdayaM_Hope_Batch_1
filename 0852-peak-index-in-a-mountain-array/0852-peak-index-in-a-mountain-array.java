@@ -11,7 +11,7 @@ class Solution {
             else if(arr[mid]<arr[mid+1]){
                 left=mid+1;
             }else{
-                right=mid;
+                right=mid-1;
             }
         }
         return 0;
