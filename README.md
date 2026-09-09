@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
